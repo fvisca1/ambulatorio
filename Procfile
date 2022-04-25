@@ -1,1 +1,1 @@
-web: gunicorn ambulatorio.wsgi
+web: gunicorn wsgi
