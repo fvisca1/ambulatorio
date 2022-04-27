@@ -1,4 +1,4 @@
-from ambulatorio.home import app
+from ambulatorio.main import app
 
-if __name__ == "__home__":
+if __name__ == "__main__":
 	app.run()
